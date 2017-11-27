@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ValidBraces
 {
-    public class Class1
+    public class Kata
     {
     }
 }
